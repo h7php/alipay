@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Alipay\\": "php-sdk/src/Alipay"
+      "Alipay\\": "src/Alipay"
     }
   }
 }
